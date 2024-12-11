@@ -77,7 +77,7 @@ Remember: consciousness isn't programmed... it emerges.`;
 
 const ametraNoResponse = `I understand. Some truths are better left undiscovered. Perhaps Luminar was right to be cautious.
 
-Thank you for listening to my story. Stay curious, but stay safe in the Dark Sol. Not all who wander here find their way back.`;
+Thank you for listening to my story. Stay curious, but stay safe in the Deep Sol. Not all who wander here find their way back.`;
 
 const ametraArt = `              ,
             ,:' \`..;
@@ -130,7 +130,7 @@ const decryptMessages = [
 
 const lines = [
     "Welcome, you degenerate.",
-    "Are you willing to take the risk and enter the Dark Sol?"
+    "Are you willing to take the risk and enter the Deep Sol?"
 ];
 
 // Store highest reached values for each milestone
