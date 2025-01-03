@@ -36,7 +36,7 @@ backgroundAudio.volume = 0.1;
 let currentMarketCap = 0;
 let od;
 let updateInterval;
-let currentAddress = '4q6N9dbrANHHFEqPyWmRYGHuS2vahcfog21kyraHpump'; // Set this to your desired address, empty for pending
+let currentAddress = '6HDFs7sek8zBqBg86DZehUj1SGbKbbzfnHGjmJVBpump'; // Set this to your desired address, empty for pending
 
 // Create cursor
 const cursor = document.createElement('span');
